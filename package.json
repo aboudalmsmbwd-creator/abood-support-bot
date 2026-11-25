@@ -1,0 +1,13 @@
+{
+  "name": "abood-tech-support-bot",
+  "version": "1.0.0",
+  "description": "Telegram Support Bot for Abood Tech",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
